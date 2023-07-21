@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Kunal Akriti ,I am a keen learner when it comes to technologies and always have a hand on it.
+Thanks for visiting my repository . I appreciate a star from you if you love the content .
 <!--
 **kunalakriti/kunalakriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
